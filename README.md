@@ -1,2 +1,3 @@
-# video-to-rosbag
-Convert MP4/video files to ROS bag format
+# Video to ROS Bag Converter
+
+Convert video files (.mp4) to ROS bag format.
